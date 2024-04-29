@@ -1,3 +1,3 @@
 # DashboardAAP-Test
 
-this is the Dashboard app test application
+This is the Dashboard app test application.
